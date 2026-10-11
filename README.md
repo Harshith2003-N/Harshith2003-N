@@ -1,98 +1,145 @@
 # Hey, I'm Harshith 👋
 
-Java Full-Stack Developer | Spring Boot | React.js | PostgreSQL | Kafka
+**Java Full Stack Developer | Backend Engineer | Spring Boot | React.js | Microservices**
 
-Open to full-time roles, internships, and collaborations
+📍 Bengaluru, Karnataka | 📱 +91 9100435251 | 📧 nallapatiharshith03@gmail.com
 
----
-
-## About Me
-
-I’m a software developer focused on building scalable, secure, and user-friendly full-stack applications. I enjoy working on backend systems, REST APIs, database design, and cloud-ready solutions using Java and modern web technologies.
-
-I build real-world applications with a strong emphasis on clean architecture, performance, and maintainability.
-
-### Core Skills
-- Java 17
-- Spring Boot
-- Spring Security
-- REST APIs
-- Hibernate / JPA
-- PostgreSQL / MySQL
-- React.js
-- JavaScript
-- Docker
-- Apache Kafka
-- Git / GitHub
-- JWT Authentication
+🔗 [LinkedIn](https://linkedin.com/in/n-harshith) | 🐙 [GitHub](https://github.com/Harshith2003-N)
 
 ---
 
-## Featured Projects
+## 💼 Professional Summary
 
-### 1. Java Fintech Transaction System
-A full-stack fintech platform for secure digital transactions, transaction history, account management, and event-driven processing.
+Motivated Computer Science and Engineering (Artificial Intelligence) graduate with hands-on experience in **Java, Spring Boot, Python, SQL, JavaScript, React.js, REST APIs, and Machine Learning**. Experienced in creating full-stack applications and AI/ML solutions through professional projects and academic work. Strong foundation in Object-Oriented Programming, database development, microservices architecture, responsive UI design, and SDLC best practices.
 
-- Built with: Java 17, Spring Boot, Spring Security, React.js, PostgreSQL, Kafka
-- Features: secure authentication, account management, real-time processing, REST APIs
-- Repository: https://github.com/Harshith2003-N/java-fintech-transaction-system
+---
 
-### 2. Cloud-Native Inventory Management System
-A modern inventory management platform built for stock tracking, product control, and cloud-ready application architecture.
+## 🛠️ Technical Skills
 
-- Built with: Java, Spring Boot, Hibernate, MySQL, React.js, Docker
-- Features: inventory tracking, stock monitoring, automated testing, scalable APIs
-- Repository: https://github.com/Harshith2003-N/Cloud-Native-Inventory-Management-System
+**Programming Languages**
+- Java, Python, JavaScript (ES6+), HTML5, CSS3, SQL
+
+**Backend Development**
+- Spring Boot, Spring MVC, Spring Data JPA, Spring Security
+- Hibernate, REST APIs, Microservices, Apache Kafka
+
+**Frontend Development**
+- React.js, Bootstrap, Tailwind CSS
+
+**Databases**
+- MySQL, PostgreSQL
+
+**Tools & Platforms**
+- Docker, Git, GitHub, Maven, Postman, Spring Cloud
+
+**Core Concepts**
+- Object-Oriented Programming, Collections Framework
+- Data Structures & Algorithms, Multithreading
+- Event-Driven Architecture, JWT Authentication, OAuth2
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Distributed Fintech & Transaction Processing Engine
+**Role:** Java Full Stack Developer
+
+**Tech Stack:** Java 17 | Spring Boot | Spring Security | Kafka | PostgreSQL | React.js | JWT/OAuth2
+
+**Key Achievements:**
+- Developed microservices-based financial platform for user authentication, account management, and secure money transfers
+- Implemented secure user authentication and role-based access using Spring Security, JWT, and OAuth2
+- Integrated Apache Kafka for asynchronous event processing and real-time transaction notifications
+- Designed responsive React.js dashboards for transaction history and financial data visualization
+- **Reduced message latency by ~35% through event-driven processing**
+
+📂 [View Repository](https://github.com/Harshith2003-N/java-fintech-transaction-system)
+
+---
+
+### 2. Cloud-Native Supply Chain & Inventory Management Engine
+**Role:** Full Stack Java Developer
+
+**Tech Stack:** Java | Spring Cloud | Hibernate | MySQL | Docker | React.js | JUnit 5 | Mockito
+
+**Key Achievements:**
+- Engineered inventory tracking system with 15+ RESTful APIs for stock monitoring and management
+- Designed backend microservices using Spring Cloud, Hibernate, and MySQL
+- Containerized backend services using Docker and Docker Compose for cloud deployment
+- Created unit and integration test suites achieving **80%+ code coverage**
+- Implemented automated testing with JUnit 5 and Mockito
+
+📂 [View Repository](https://github.com/Harshith2003-N/Cloud-Native-Inventory-Management-System)
+
+---
 
 ### 3. Driver Drowsiness Detection System Using AI
-An AI-based solution focused on detecting driver fatigue using computer vision and safety monitoring techniques.
+**Role:** Python Developer | Machine Learning Engineer
 
-- Built with: Python, AI/ML, Computer Vision, TypeScript
-- Features: drowsiness detection, safety monitoring, intelligent analysis
-- Repository: https://github.com/Harshith2003-N/driver-drowsiness-detection-system-using-ai
+**Tech Stack:** Python | OpenCV | TensorFlow | Computer Vision | Deep Learning
 
----
+**Key Achievements:**
+- Created real-time driver monitoring solution using Computer Vision and Deep Learning techniques
+- Analyzed eye closure and yawning patterns to detect potential driver fatigue
+- Implemented alert mechanism for immediate notifications to improve road safety
+- Applied advanced image processing and computer vision techniques for continuous monitoring
+- **Achieved ~92% model accuracy during project evaluation**
 
-## What I Bring
-
-- Strong backend development experience with Java and Spring Boot
-- Secure API development with JWT and Spring Security
-- Database design and ORM integration
-- Full-stack application development with React.js
-- Event-driven architecture using Kafka
-- Building clean, maintainable, production-ready solutions
-- End-to-end application development from backend to UI
+📂 [View Repository](https://github.com/Harshith2003-N/driver-drowsiness-detection-system-using-ai)
 
 ---
 
-## Current Focus
+## 💡 What I Bring
 
-- Java backend engineering
-- Full-stack product development
-- Cloud-native and scalable application design
-- Building practical, real-world software solutions
-
----
-
-## Open to Opportunities
-
-I’m actively looking for:
-- Java Full-Stack Developer roles
-- Backend Developer roles
-- Software Engineer internships
-- Product-based development opportunities
-- Collaborations on meaningful projects
+✅ Full-stack development expertise with Java backend and React.js frontend  
+✅ Microservices architecture and event-driven design patterns  
+✅ Secure API development using JWT, OAuth2, and Spring Security  
+✅ Database design, optimization, and ORM integration  
+✅ Cloud-native application development with Docker and containerization  
+✅ Testing-first approach with high code coverage  
+✅ Real-world problem-solving with AI/ML integration  
+✅ Clean code practices and SDLC best practices  
 
 ---
 
-## Connect
+## 🎓 Education
 
-- GitHub: https://github.com/Harshith2003-N
-- LinkedIn: Add your profile link
-- Email: Add your email
+**B.Tech in Computer Science & Engineering — Artificial Intelligence**  
+Chadalawada Ramanamma Engineering College, Tirupati | 2022–2026 | CGPA: 8.34/10
+
+**Professional Training**  
+Full Stack Java Development Program — Jspiders Training Institute, Bengaluru  
+400+ hours of intensive hands-on training | Enterprise Java | Spring Frameworks | Modern Frontend
+
+**Certifications**
+- NPTEL — Internet of Things (IoT)
+- NPTEL — Reinforcement Learning
 
 ---
+
+## 🎯 Open to Opportunities
+
+- ✨ Java Full-Stack Developer roles
+- ✨ Backend Engineer positions
+- ✨ Microservices Architecture roles
+- ✨ Software Engineer internships & full-time positions
+- ✨ Collaborations on impactful projects
+
+---
+
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith2003-N&layout=compact&theme=dark)
 
-Thanks for visiting my profile! I’m excited to build, learn, and contribute. 🚀
+---
+
+## 📫 Let's Connect
+
+💼 **LinkedIn:** [linkedin.com/in/n-harshith](https://linkedin.com/in/n-harshith)  
+🐙 **GitHub:** [github.com/Harshith2003-N](https://github.com/Harshith2003-N)  
+📧 **Email:** nallapatiharshith03@gmail.com  
+📱 **Phone:** +91 9100435251  
+
+---
+
+Thanks for visiting my profile! I'm excited to build scalable solutions, collaborate with talented teams, and create real-world impact. 🚀
