@@ -9,7 +9,7 @@ Full-Stack Java Developer | Spring Boot | React.js | Graduating 2026
 I'm a passionate full-stack developer specializing in Java-based backend systems and modern frontend development. I build scalable, production-ready applications with a focus on clean architecture, security, and performance. Currently preparing for roles as a Java Full Stack Developer.
 
 **Status:** Graduating 2026  
-**Focus:** Java, Spring Boot, React.js, Cloud & Distributed Systems
+**Focus:** Java, python, Spring Boot, React.js, Cloud & Distributed Systems
 
 ---
 
@@ -17,6 +17,7 @@ I'm a passionate full-stack developer specializing in Java-based backend systems
 
 ### Backend
 - Java 17
+- python
 - Spring Boot
 - Spring Security
 - Spring Data JPA
